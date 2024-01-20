@@ -1,6 +1,4 @@
 import json
-import csv
-
 import ijson
 import csv
 
