@@ -1,5 +1,6 @@
 ﻿# veracity_assignment
-
+## Screen shot
+![image](https://github.com/vakeesank99/veracity_assignment/assets/76678677/f96fce22-05a6-4346-bf3c-8ebf2fe03bcd)
 ## Requirements
 - Python >=3.12.1
 - Other requirements can be installed with the help of the requirements.txt file.
